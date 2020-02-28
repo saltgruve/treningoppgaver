@@ -1,0 +1,22 @@
+table, th, td {
+  border: 1px solid black;
+  padding: 3px;
+}
+.container {
+  border: 2px solid black;
+  width: 500px;
+}
+input {
+  width: 50px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+button {
+  margin-top: 0;
+}
+#output2 {
+  margin-bottom: 0;
+}
+input {
+  margin: 0;
+}
